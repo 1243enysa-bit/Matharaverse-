@@ -1,0 +1,14 @@
+# Improper Integrals
+
+Improper integrals occur when:
+
+1. The interval of integration is infinite.
+2. The integrand becomes infinite within the interval.
+
+Example:
+
+∫₁^∞ 1/x² dx
+
+This integral converges to 1.
+
+Despite having an infinite limit, the total area remains finite.
